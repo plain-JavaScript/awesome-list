@@ -578,3 +578,5 @@ Links to a number of useful articles
 Don't be fooled by the headline. Author says you may not need a UI Framework, but he still expects you to use React.
 
 ***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
