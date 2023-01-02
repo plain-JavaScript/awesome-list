@@ -1,8 +1,8 @@
-# Plain JavaScript
+# Plain JavaScript / Kitchen Sink
 
-_Awesome list of curated links to the many wonderful aspects of simple, fast and future-proof JavaScript_
+_A repository of JavaScript resources with more than enough links maintained by @theo-armour_
 
-## Links: https://plain-JavaScript.github.io ~ [![]( https://plain-JavaScript.github.io/assets/octicon.svg)]( https://github.com/plain-JavaScript/plain-JavaScript.github.io )
+## Links: https://plain-JavaScript.github.io/kitchen-sink ~ [![]( https://plain-JavaScript.github.io/assets/octicon.svg)]( https://github.com/plain-JavaScript/kitchen-sink )
 
 * [Target Audiences]( #target-audiences )
 * [Introduction]( #Introduction )
@@ -15,6 +15,8 @@ _Awesome list of curated links to the many wonderful aspects of simple, fast and
 
 
 ## Introduction
+
+"[Kitchen Sink]( https://en.wiktionary.org/wiki/everything_but_the_kitchen_sink)" is an English idiom implying  Almost everything, whether needed or not.
 
 This repository provides lists of links to resources for developers of applications based on the JavaScript programming language. The particular emphasis here is on plain ["vanilla"]( https://en.wikipedia.org/wiki/Vanilla_software ) scripts that are simple, free and easy on the brain.
 
