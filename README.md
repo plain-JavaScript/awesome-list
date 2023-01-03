@@ -283,7 +283,7 @@ Links to more articles and comments will added
 
 ### Background ~ Videos
 
-### dotJS 2017 -Adrian Holovaty - A framework author's case against frameworks ~ https://www.youtube.com/watch?v=VvOsegaN9Wk
+### dotJS 2017 - Adrian Holovaty - A framework author's case against frameworks ~ https://www.youtube.com/watch?v=VvOsegaN9Wk
 > Adrian cowrote Django, a prominent server-side framework, yet he has come to believe that front-end frameworks are unnecessary for his own projects. Here's his impassioned argument for avoiding JavaScript frameworks on the front end.
 
 
@@ -420,11 +420,16 @@ More
 
 One of the great joys of JavaScript is the huge quantity of free, open-source scripts that developes make available for you to observe, enjoy and build upon. Many scripts are plain JavaScript and many other use libraries. There are thousands of people sharing their knowledge in this manner. Below is a work-in-progress list of developers listed alphabetically by first name (following the style of Wikipedia) with links to some of their efforts that might be relevant.
 
+
 ### Branislav Ulicny
+
+tags #threejs
 
 * https://alteredqualia.com/
 
 ### Brendan Eich
+
+The father of JavaScript
 
 * https://brendaneich.com/
 
@@ -461,6 +466,8 @@ Here are some links to his numerouse available resources.
 
 ### Evgeny Demidov
 
+tags #webgl
+
 * http://www.ipm.sci-nnov.ru/~Demidov/
 * https://www.ibiblio.org/e-notes/webgl/webgl.htm
 
@@ -469,14 +476,27 @@ Here are some links to his numerouse available resources.
 
 * https://airtight.cc/
 
+### Jérôme Beau
+
+tags #author #front-end
+
+* https://github.com/Javarome
+* https://twitter.com/javarome
+* https://javarome.com
+* "Design: #noFramework" 2022-02-27 ~ https://javarome.medium.com/design-noframework-bbc00a02d9b3
+  * https://news.ycombinator.com/item?id=30568699
+
 ### Jerome Etienne
+
+tags #threejs
 
 * http://jetienne.com/portfolio/
 * https://github.com/jeromeetienne
 
 
-
 ### Lo Th
+
+tags #threejs
 
 * https://github.com/lo-th
 * http://lo-th.github.io/labs/index.html
@@ -505,6 +525,24 @@ I can spend hours playing with Maxime's efforts
 
 ### Ricardo Cabello
 
+tags #threejs
+
+* https://threejs.org
+* https://mrdoob.com
+* https://mrdoob.neocities.org/
+* https://twitter.com/mrdoob
+
+https://twitter.com/mrdoob/status/1609874821479026689
+2023-01-02 ~ My current collection of useful "no sign-in" web apps:
+
+https://photopea.com
+https://boxy-svg.com/app
+https://tldraw.com
+https://globs.design
+https://alma.sh
+https://audiomass.co
+https://hexed.it
+https://webvm.io
 
 ### Stanko Tadic
 
@@ -519,7 +557,6 @@ I can spend hours playing with Maxime's efforts
 
 * https://github.com/unconed
 * https://acko.net/
-
 
 
 ## Sources ~ GitHub Searches
