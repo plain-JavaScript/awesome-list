@@ -483,10 +483,12 @@ Here are some links to his numerous available resources.
 * https://vanillajstoolkit.com/helpers/
 * https://learnvanillajs.com/
 
+
 ### Douglas Crockford
 
 * http://crockford.com/javascript/
 * https://en.wikipedia.org/wiki/Douglas_Crockford
+
 
 ### Eric Wastl
 
