@@ -425,25 +425,55 @@ One of the great joys of JavaScript is the huge quantity of free, open-source sc
 
 tags #threejs
 
+One of the earliest and most capable [Three.js]( https://threejs.ork)  developers
+
 * https://alteredqualia.com/
+* https://github.com/alteredq
+* https://twitter.com/alteredq
+
 
 ### Brendan Eich
 
-The father of JavaScript
+American computer programmer and technology executive. He created the JavaScript programming language and co-founded the Mozilla project, the Mozilla Foundation, and the Mozilla Corporation.
 
 * https://brendaneich.com/
+* https://brave.com/
+* https://github.com/BrendanEich
+* https://en.wikipedia.org/wiki/Brendan_Eich
+* https://twitter.com/BrendanEich
+
 
 ### Brad Traversy
 
 * https://github.com/bradtraversy
+* https://traversymedia.com/
+* https://twitter.com/traversymedia
+* https://www.youtube.com/traversymedia
 * https://github.com/bradtraversy/design-resources-for-developers
+  * Huge list of resources that could use better curation. For example: How about using alphabetical order?
+  * 46K stars ~ 379 contributors
+* https://github.com/bradtraversy/design-resources-for-developers
+* https://github.com/bradtraversy/50projects50days
+  * Live demos have outdated security certificate
 * https://github.com/bradtraversy/vanillawebprojects
+  * 14K stars ~ 19 contributors
+  * https://www.udemy.com/course/web-projects-with-vanilla-javascript/?referralCode=F9B7C7FED834F91ADE75
+  * https://vanillawebprojects.com/
+
+>20+ mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+
+Unfortunately, the projects do not have a demo - unless you sign up. ;-()
+
+You can, however use [HTMLPreview]( http://htmlpreview.github.io/ ).
+
+Example: http://htmlpreview.github.io/?https://github.com/bradtraversy/vanillawebprojects/blob/master/custom-video-player/index.html
+
 
 ### Chris Ferdinandi
 
 [Chris]( https://gomakethings.com/about/ ) is perhaps the most popular figure in the world of discussions on plain JavaScript.
 
-Here are some links to his numerouse available resources.
+Here are some links to his numerous available resources.
 
 * https://gist.github.com/cferdinandi
 * https://gomakethings.com/
