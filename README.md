@@ -8,9 +8,9 @@ _A repository of JavaScript resources with more than enough links maintained by 
 * [Target Audience]( #target-audience ) ~ Are you a person who will find this effort useful
 * [Reference]( #Reference ) ~ You can learn about the history and the future of JavaScript here.
 * [Background]( #Background ) ~ Read what people write and talk about plain and simple JavaScript
-* [Resources]( #Resources ) ~
-* [Sources]( #Sources )
-* [Miscellany]( #Miscellany )
+* [Resources]( #Resources ) ~ You can learn about the history and the future of JavaScript here.
+* [Sources]( #Sources ) ~ "Stand upon the shoulders of giants"
+* [Miscellany]( #Miscellany ) ~ whatever is does not have a logical plce to go to - yet
 
 
 ## Introduction
