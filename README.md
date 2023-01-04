@@ -4,13 +4,15 @@ _A repository of JavaScript resources with more than enough links maintained by 
 
 ## Links: https://plain-JavaScript.github.io/kitchen-sink ~ [![]( https://plain-JavaScript.github.io/assets/octicon.svg)]( https://github.com/plain-JavaScript/kitchen-sink )
 
-* [Introduction]( #Introduction )
+## Table of Contents
+
+* [Introduction]( #introduction )
 * [Target Audience]( #target-audience ) ~ Are you a person who will find this effort useful
-* [Reference]( #Reference ) ~ You can learn about the history and the future of JavaScript here.
-* [Background]( #Background ) ~ Read what people write and talk about plain and simple JavaScript
-* [Resources]( #Resources ) ~ You can learn about the history and the future of JavaScript here.
-* [Sources]( #Sources ) ~ "Stand upon the shoulders of giants"
-* [Miscellany]( #Miscellany ) ~ whatever is does not have a logical plce to go to - yet
+* [Reference]( #reference ) ~ You can learn about the history and the future of JavaScript here.
+* [Background]( #background ) ~ Read what people write and talk about plain and simple JavaScript
+* [Resources]( #resources ) ~ You can learn about the history and the future of JavaScript here.
+* [Sources]( #sources ) ~ "Stand upon the shoulders of giants"
+* [Miscellany]( #miscellany ) ~ whatever is does not have a logical place to go to - yet
 
 
 ## Introduction

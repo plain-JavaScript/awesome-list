@@ -92,7 +92,6 @@
 			resize: both;
 			width: 100%;
 		}
-
 	</style>
 
 </head>
@@ -114,7 +113,7 @@
 
 		init();
 
-		function init() {
+		function init () {
 
 			showdown.setFlavor( "github" );
 
@@ -127,7 +126,9 @@
 		}
 
 
-		function onHashChange() {
+		function onHashChange () {
+
+			if ( !location.hash.includes( "." ) ) { return; } // if no file extension then probably an internal link
 
 			const url = location.hash.slice( 1 );
 			const txt = url.split( "/" ).pop();
@@ -143,10 +144,10 @@
 			xhr.open( "get", url, true );
 			xhr.onload = () => {
 				let txt = xhr.responseText;
-				txt = txt.replace( /\<!--@@@/, "" ).replace( /\@@@-->/, "" );
+				txt = txt.replace( /\<!--@@@/, "" ).replace( /\@@@-- >/, "" );
 				divContent.innerHTML = new showdown.Converter( options ).makeHtml( txt );
 				window.scrollTo( 0, 0 );
-			}
+			};
 			xhr.send( null );
 
 		}
