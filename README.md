@@ -4,12 +4,11 @@ _A repository of JavaScript resources with more than enough links maintained by 
 
 ## Links: https://plain-JavaScript.github.io/kitchen-sink ~ [![]( https://plain-JavaScript.github.io/assets/octicon.svg)]( https://github.com/plain-JavaScript/kitchen-sink )
 
-* [Target Audiences]( #target-audiences )
 * [Introduction]( #Introduction )
-* [Target Audience]( #target-audience )
-* [Reference]( #Reference )
-* [Background]( #Background )
-* [Resources]( #Resources )
+* [Target Audience]( #target-audience ) ~ Are you a person who will find this effort useful
+* [Reference]( #Reference ) ~ You can learn about the history and the future of JavaScript here.
+* [Background]( #Background ) ~ Read what people write and talk about plain and simple JavaScript
+* [Resources]( #Resources ) ~
 * [Sources]( #Sources )
 * [Miscellany]( #Miscellany )
 
@@ -75,10 +74,6 @@ Well, you have come to the right place ( or will do when this list progresses a 
 
 ***
 
-
-
-***
-
 ## Reference
 
 A reference is a link to a source of information. The links herein can help you understand the "who, what, when, where and why of JavaScript".
@@ -86,7 +81,7 @@ A reference is a link to a source of information. The links herein can help you 
 
 ### Reference ~ Wikimedia Foundation projects relating to JavaScript
 
-It's often worth starting any search on any topic by looking at what is available in thw Wikimedia "movement". Sp, here we go with a first look at JavaScript.
+It's often worth starting any search on any topic by looking at what is available in the Wikimedia "movement". So, here we go with a first look at JavaScript.
 
 ### Wikimedia ~ https://Wikimedia.org
 
