@@ -1,4 +1,14 @@
-# Journal ~ Kitchen Sunk
+# Journal ~ Kitchen Sink
+
+## 2023-01-05  ~ @theo-armour
+
+* Added to and edited "Sources ~ People"
+
+It's beginning to feel likr there could be thousands of people listed here. I wonder what that means. What could be useful?
+* a "phonebook" of JavaScript peeps?
+* A blog showcasing the best demos available on GitHub?
+
+
 
 ## 2023-01-04 ~ @theo-armour
 

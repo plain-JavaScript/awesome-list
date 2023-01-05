@@ -54,7 +54,7 @@ We are still dozens of links short of being ready to share with the world, but i
 
 ### Beginners
 
-Are you a youngster and want to play with computers? A program that runs a JavaScript script is available on virtually computers, tablets and phones. Ditto the software to write programs - a text editor. So you can start today.
+Are you a youngster and want to play with computers? A program that runs a JavaScript script is available on virtually computers, tablets and phones. Ditto the software to write programs - a text editor. So you can start today!
 
 
 ### STEAM skills but little programming experience
@@ -386,7 +386,7 @@ Every plugin includes a demo. link to sources on GitHub and NPM
 
 ## Sources
 
-At last, we come to the crux of the matter: source code! The best way to learn plain JavaScript is to to look at, play with and modify JavaScript source code. The following sections are a treasure trove of good, bad and indifferent examplers for you to examinee.
+At last, we come to the crux of the matter: source code! The best way to learn plain JavaScript is to to look at, play with and modify JavaScript source code. The following sections are a treasure trove of good, bad and indifferent examples for you to examine.
 
 
 ### Sources ~ Repos
@@ -417,12 +417,27 @@ More
 
 One of the great joys of JavaScript is the huge quantity of free, open-source scripts that developes make available for you to observe, enjoy and build upon. Many scripts are plain JavaScript and many other use libraries. There are thousands of people sharing their knowledge in this manner. Below is a work-in-progress list of developers listed alphabetically by first name (following the style of Wikipedia) with links to some of their efforts that might be relevant.
 
+### Lists of People
+
+* https://code.tutsplus.com/articles/33-developers-you-must-subscribe-to-as-a-javascript-junkie--net-18151
+
+### Aki Rodić
+
+GH:
+* Computer graphics and creative technology. Software Engineer at Adobe. Previously at EA, Lucasfilm, Pixar, Google.
+* 366 followers · 63 following
+* https://github.com/arodic
+* http://akirodic.com
+* @akirodic
+
+* https://akirodic.com/p/jellyfish/
+
 
 ### Branislav Ulicny
 
 tags #threejs
 
-One of the earliest and most capable [Three.js]( https://threejs.ork)  developers
+One of the earliest and most capable [Three.js]( https://threejs.ork) developers, nowadays Branislav is more visible on Twitter than GitHub.
 
 * https://alteredqualia.com/
 * https://github.com/alteredq
@@ -430,6 +445,11 @@ One of the earliest and most capable [Three.js]( https://threejs.ork)  developer
 
 
 ### Brendan Eich
+
+tags ??
+
+Founder & CEO, Brave Software. Created JavaScript. Co-founded Mozilla and Firefox.
+GH: 5.3k followers · 5 following ~ @brave
 
 American computer programmer and technology executive. He created the JavaScript programming language and co-founded the Mozilla project, the Mozilla Foundation, and the Mozilla Corporation.
 
@@ -441,6 +461,11 @@ American computer programmer and technology executive. He created the JavaScript
 
 
 ### Brad Traversy
+
+Full stack web developer and online instructor, specializiing in mostly JS, but also write Python, PHP and some other stuff.
+
+GH: 60.6k followers · 6 following ~ @bradtraversy
+
 
 * https://github.com/bradtraversy
 * https://traversymedia.com/
@@ -465,13 +490,32 @@ You can, however use [HTMLPreview]( http://htmlpreview.github.io/ ).
 
 Example: http://htmlpreview.github.io/?https://github.com/bradtraversy/vanillawebprojects/blob/master/custom-video-player/index.html
 
+### Callum Prentice
+
+tags #threejs #maps
+
+* https://callumprentice.github.io/
+
+GitHub
+* https://github.com/callumprentice
+* Expat Brit in Southern California via San Francisco, Singapore, Barcelona, Hong Kong. Second Life developer since 2004.
+* 124 followers · 1 following
+* Linden >Lab
+* Southern California
+* callum@gmail.com
+* http://callum.com
+* @callumprentice
+
 
 ### Chris Ferdinandi
 
 [Chris]( https://gomakethings.com/about/ ) is perhaps the most popular figure in the world of discussions on plain JavaScript.
 
-Here are some links to his numerous available resources.
+GH:  1.6k followers · 2 following ~ @cferdinandi
 
+Here are some links to Chris numerous available resources:
+
+* https://github.com/cferdinandi
 * https://gist.github.com/cferdinandi
 * https://gomakethings.com/
 * https://vanillajsacademy.com/
@@ -483,15 +527,39 @@ Here are some links to his numerous available resources.
 
 ### Douglas Crockford
 
+Wikipedia
+
+>Douglas Crockford is an American computer programmer who is involved in the development of the JavaScript language. He specified the data format JSON (JavaScript Object Notation), and has developed various JavaScript related tools such as the static code analyzer JSLint and minifier JSMin.[1] Of his books, "JavaScript: The Good Parts" was published in 2008, followed by "How JavaScript Works" in 2018. He was a senior JavaScript architect at PayPal until 2019, and is also a writer and speaker on JavaScript, JSON, and related web technologies.
+
+GitHub:
+>I was born in Frostbite Falls, Minnesota. I left when I was 6 months old because it was too damn cold. My latest book is _A Million And One Random Digits_.
+
+GH: 20.9k followers · 2 following ~ @douglascrockford
+
+* https://github.com/douglascrockford
 * http://crockford.com/javascript/
 * https://en.wikipedia.org/wiki/Douglas_Crockford
 
 
 ### Eric Wastl
 
+GH:  3.6k followers · 0 following ~ @topaz
+
 * https://github.com/topaz
+
+Founded by Eric Wastl
+
+Wikipedia
+>**Advent of Code** is an annual set of Christmas-themed computer programming challenges that follow an Advent calendar. It has been running since 2015.
+>
+>The programming puzzles cover a variety of skill sets and skill levels and can be solved using any programming language. Participants also compete based on speed on both global and private leaderboards.
+
 * https://adventofcode.com/ ~ See https://en.wikipedia.org/wiki/Advent_of_Code
-* http://vanilla-js.com/ ~ a joke site that confuses everybody
+* https://twitter.com/ericwastl
+
+Creator of:
+* http://vanilla-js.com/ ~ a joke web site site that confuses everybody into thinking that "vanilla JavaScript" is an actual framework you can download.
+
 
 ### Evgeny Demidov
 
@@ -503,21 +571,40 @@ tags #webgl
 
 ### Felix Turner
 
+tags #threejs
+
+@felixturner
+
+>Airtight Interactive is the home of Felix Turner.  Felix Turner is a Creative Technical Director based in Los Angeles
+
+* https://github.com/felixturner
 * https://airtight.cc/
+
+
 
 ### Jérôme Beau
 
 tags #author #front-end
 
+> Thinking out of the box to build change-friendly software.
+
+GH:  32 followers · 44 following ~ @javarome
+
 * https://github.com/Javarome
 * https://twitter.com/javarome
 * https://javarome.com
+* https://twitter.com/javarome
 * "Design: #noFramework" 2022-02-27 ~ https://javarome.medium.com/design-noframework-bbc00a02d9b3
   * https://news.ycombinator.com/item?id=30568699
+
 
 ### Jerome Etienne
 
 tags #threejs
+
+GitHub
+> Making WebAR a reality - Around Javascript and WebGL - 8th most active user on github - Write @learningthreejs - ex daqri
+> 2.5k followers · 15 following ~ @jeromeetienne
 
 * http://jetienne.com/portfolio/
 * https://github.com/jeromeetienne
@@ -535,6 +622,15 @@ tags #threejs
 * https://github.com/onedayitwillmake
 * http://onedayitwillmake.com/
 
+## Matt Favero
+
+GH: 17 followers · 12 following ~ @mattvr
+mattfavero.com
+@matt_fvr
+
+* https://github.com/mattvr/vr-art-gallery
+* https://twitter.com/matt_fvr/status/1610735692287725574
+
 ### Maxime Euziere
 
 Maxime is an expert at making tiny scripts that do amazing things, but guess what? There is a trade off: They are not easy.
@@ -542,6 +638,7 @@ Maxime is an expert at making tiny scripts that do amazing things, but guess wha
 https://xem.github.io/
 
 I can spend hours playing with Maxime's efforts
+
 
 ### Mike Bostock
 
@@ -552,14 +649,22 @@ I can spend hours playing with Maxime's efforts
 
 * http://paulbourke.net/
 
-### Ricardo Cabello
+### Ricardo Cabello AKA mrdoob
+
+>Award losing non creative junior developer.
+>May or may not have something to do with @threejs
+.
 
 tags #threejs
 
+* https://ricardocabello.com/
+* https://github.com/mrdoob
 * https://threejs.org
 * https://mrdoob.com
 * https://mrdoob.neocities.org/
+* https://ello.co/mrdoob
 * https://twitter.com/mrdoob
+
 
 https://twitter.com/mrdoob/status/1609874821479026689
 2023-01-02 ~ My current collection of useful "no sign-in" web apps:
@@ -572,6 +677,7 @@ https://alma.sh
 https://audiomass.co
 https://hexed.it
 https://webvm.io
+
 
 ### Stanko Tadic
 
@@ -607,6 +713,8 @@ Links to searches on GitHub that may bring up items of interest
 * https://github.com/Cyanhall/awesome-javascript
 
 ***
+
+
 ## Miscellany
 
 Odd and ends that don't yet seem to have a category to belong to.
