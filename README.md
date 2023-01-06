@@ -420,6 +420,9 @@ One of the great joys of JavaScript is the huge quantity of free, open-source sc
 ### Lists of People
 
 * https://code.tutsplus.com/articles/33-developers-you-must-subscribe-to-as-a-javascript-junkie--net-18151
+* https://blog.codersrank.io/javascript-developers-you-should-follow/
+* https://www.quora.com/Who-are-the-best-coders-to-follow-on-GitHub-for-someone-who-is-new-to-programming-and-looking-to-learn-by-watching-other-examples-of-the-craft
+* ?? https://newrelic.com/blog/nerd-life/javascript-nodejs-experts
 
 ### Aki Rodić
 
@@ -431,6 +434,20 @@ GH:
 * @akirodic
 
 * https://akirodic.com/p/jellyfish/
+
+### Addy Osmani
+
+tags #famous
+
+GitHub
+addyosmani
+Engineering Manager at Google working on Chrome & Web Platform
+ 40.3k followers · 259 following
+Google
+Mountain View, California
+addyosmani@gmail.com
+https://www.addyosmani.com
+@addyosmani
 
 
 ### Branislav Ulicny
@@ -490,6 +507,7 @@ You can, however use [HTMLPreview]( http://htmlpreview.github.io/ ).
 
 Example: http://htmlpreview.github.io/?https://github.com/bradtraversy/vanillawebprojects/blob/master/custom-video-player/index.html
 
+
 ### Callum Prentice
 
 tags #threejs #maps
@@ -524,7 +542,21 @@ Here are some links to Chris numerous available resources:
 * https://vanillajstoolkit.com/helpers/
 * https://learnvanillajs.com/
 
+
+### Christian Heilmann
+
+GitHub
+* https://github.com/codepo8*
+Senior Program manager for Microsoft working on Edge and anything JavaScript related. AI/ML fanboy.
+ 2.5k followers · 5 following
+Berlin, Germany
+chris.heilmann@gmail.com
+http://christianheilmann.com
+
+
 ### David Walsh
+
+David has published numerous very useful demos. He's been quiet with posting for a while, but has promised a comeback.
 
 GitHub
 * https://github.com/darkwing
@@ -533,6 +565,18 @@ GitHub
 * Mozilla
 * Madison, Wisconsin, United States
 * https://davidwalsh.name
+* https://twitter.com/davidwalshblog
+
+### Dmitry Baranovskiy
+
+GitHub
+* https://github.com/DmitryBaranovskiy
+JavaScript Artist
+ 2.4k followers · 15 following
+@adobe
+Sydney, Australia
+dmitry@baranovskiy.com
+http://dmitry.baranovskiy.com/
 
 
 ### Douglas Crockford
@@ -591,6 +635,16 @@ tags #threejs
 * https://airtight.cc/
 
 
+### Fengyuan Chen
+
+GitHub:
+* @fengyuanchen
+* 2.4k followers · 42 following
+* China
+* chenfengyuan@outlook.com
+* https://chenfengyuan.com
+* https://github.com/fengyuanchen
+
 
 ### Jérôme Beau
 
@@ -619,6 +673,20 @@ GitHub
 * http://jetienne.com/portfolio/
 * https://github.com/jeromeetienne
 
+### John Resig
+
+tags #famous
+
+GitHub
+* Chief Architect at @Khan Academy
+* 17.5k followers · 30 following
+* @Khan
+* Hudson Valley, NY
+* jeresig@gmail.com
+* https://johnresig.com/
+* https://github.com/jeresig
+* @jeresig
+
 
 ### Lo Th
 
@@ -641,6 +709,7 @@ mattfavero.com
 * https://github.com/mattvr/vr-art-gallery
 * https://twitter.com/matt_fvr/status/1610735692287725574
 
+
 ### Maxime Euziere
 
 Maxime is an expert at making tiny scripts that do amazing things, but guess what? There is a trade off: They are not easy.
@@ -655,9 +724,52 @@ I can spend hours playing with Maxime's efforts
 * https://bost.ocks.org/mike/
 * https://bost.ocks.org/mike/
 
+
+### Nicholas C Zakas
+
+tags #famous
+
+GitHub
+* https://github.com/nzakas/
+* Creator of ESLint, independent software developer, consultant, coach, and author.
+* 9.6k followers · 0 following
+* Human Who Codes LLC
+* Mountain View, CA
+* https://humanwhocodes.com
+* @slicknet
+
+Repos
+* https://github.com/nzakas/understandinges6
+
+
 ### Paul Burke
 
 * http://paulbourke.net/
+
+
+### Paul Irish
+
+Paul Irish
+paulirish
+ 30.7k followers · 279 following
+Google Chrome, ♥z
+https://paul.irish/
+@paul_irish
+
+
+### Remy Sharp
+
+tags #famous
+
+GitHub
+* https://github.com/remy/
+JavaScript (node + client side) developer with over 20 years experience. Contact me for any work or questions about JS I might be able to help you with.
+ 7.3k followers · 6 following
+Left Logic / @leftlogic
+Brighton, UK
+remy@leftlogic.com
+https://remysharp.com
+@rem
 
 
 ### Ricardo Cabello AKA mrdoob
@@ -703,6 +815,8 @@ https://webvm.io
 
 * https://github.com/unconed
 * https://acko.net/
+
+### Tania Rascia
 
 
 ## Sources ~ GitHub Searches
@@ -753,7 +867,12 @@ Links to a number of useful articles
 
 ### Miscellany ~ Not Plain JavaScript
 
+### Miscellany ~ Articles ~ Not Plain JavaScript
 * https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/
+
+### Miscellany ~ Programmers ~ Not Plain JavaScript
+
+* https://github.com/piecioshka ~ rationale: no demos that just run ~ uses a lot of node.js
 
 
 ### Miscellany ~ 2022-05-03 ~ Josh Comeau ~ https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/
