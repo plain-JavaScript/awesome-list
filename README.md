@@ -524,6 +524,16 @@ Here are some links to Chris numerous available resources:
 * https://vanillajstoolkit.com/helpers/
 * https://learnvanillajs.com/
 
+### David Walsh
+
+GitHub
+* https://github.com/darkwing
+* Senior Software Engineer, Front-End Developer, @mootools Core Developer, Javascript Fanatic, CSS Tinkerer, Node Hacker, web and open source lover.
+* 3.8k followers · 54 following
+* Mozilla
+* Madison, Wisconsin, United States
+* https://davidwalsh.name
+
 
 ### Douglas Crockford
 
@@ -648,6 +658,7 @@ I can spend hours playing with Maxime's efforts
 ### Paul Burke
 
 * http://paulbourke.net/
+
 
 ### Ricardo Cabello AKA mrdoob
 
