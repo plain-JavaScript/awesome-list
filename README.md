@@ -411,7 +411,8 @@ More
 ### Sources ~ Organizations
 
 * https://www.codementor.io/javascript-experts
-
+* https://webcomponents.guide/tutorials/
+  * https://news.ycombinator.com/item?id=34313583
 
 ### Sources ~ People
 
@@ -449,6 +450,20 @@ addyosmani@gmail.com
 https://www.addyosmani.com
 @addyosmani
 
+### Brad Woods
+
+Brad Woods
+bradwoods
+Front-end Engineer
+ 59 followers · 2 following
+Easy Agile
+Sydney, Australia
+brad@bradwoods.io
+https://garden.bradwoods.io
+@bradwoodsio
+
+https://garden.bradwoods.io/ !!! ~ https://news.ycombinator.com/item?id=34315380
+https://tiny-helpers.dev/
 
 ### Branislav Ulicny
 
@@ -873,6 +888,7 @@ Links to a number of useful articles
 ### Miscellany ~ Programmers ~ Not Plain JavaScript
 
 * https://github.com/piecioshka ~ rationale: no demos that just run ~ uses a lot of node.js
+
 
 
 ### Miscellany ~ 2022-05-03 ~ Josh Comeau ~ https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/
