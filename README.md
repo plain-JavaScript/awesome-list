@@ -663,7 +663,7 @@ GitHub:
 
 ### Jérôme Beau
 
-tags #author #front-end
+tags #author #front-end #noframework
 
 > Thinking out of the box to build change-friendly software.
 
@@ -673,8 +673,12 @@ GH:  32 followers · 44 following ~ @javarome
 * https://twitter.com/javarome
 * https://javarome.com
 * https://twitter.com/javarome
+
+The following article is what got the plain-javascript project started:
+
 * "Design: #noFramework" 2022-02-27 ~ https://javarome.medium.com/design-noframework-bbc00a02d9b3
   * https://news.ycombinator.com/item?id=30568699
+  * https://www.reddit.com/r/programming/comments/t7un48/building_a_web_app_with_no_framework/
 
 
 ### Jerome Etienne
@@ -687,6 +691,7 @@ GitHub
 
 * http://jetienne.com/portfolio/
 * https://github.com/jeromeetienne
+
 
 ### John Resig
 
