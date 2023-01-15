@@ -11,8 +11,32 @@ _A repository of JavaScript resources with more than enough links maintained by 
 * [Reference]( #reference ) ~ You can learn about the history and the future of JavaScript here.
 * [Background]( #background ) ~ Read what people write and talk about plain and simple JavaScript
 * [Resources]( #resources ) ~ You can learn about learning, analyzing and writing JavaScript here.
-* [Sources]( #sources ) ~ "Stand upon the shoulders of giants" ~ links to the heros of JavaScript
-* [Miscellany]( #miscellany ) ~ whatever is does not have a logical place to go to - yet
+* [Sources]( #sources ) ~ "Stand upon the shoulders of giants" ~ links to the heroes of JavaScript
+* [Miscellany]( #miscellany ) ~ whatever does not have a logical place to go to ~ yet
+
+
+## Preface ~ 2023-01-15
+
+### To Do
+
+* Break this file up into separate Markdown files
+* Early stage work-in-progress: Establish a format and style for entries. Then apply it to all the entries
+
+GitHub is a primary source of many of the links here. Every GitHub user and organization has a standard format in the left column. I am looking for the quickest way to copying that text from GitHub, pasting it into the appropriate Markdown file here, then using the fewest keystrokes to restyle and format the text for here.
+
+### Naming repos
+
+"Kitchen Sink" is fun, but it may not be very meaningful out there in the GitHub world.
+
+What is a better, more useful name? A popular current meme is "awesome list"
+
+* "Awesome list of Plain JavaScript"
+* "Awesome list of plain JavaScript links"
+
+
+### Definitions
+
+What is the difference between a "resource" and a "source"? It will be nive one day to have some good clear categories and tags for all out topics
 
 
 ## Introduction
@@ -326,6 +350,28 @@ What is Vanilla JS ? (Simple explanation for Beginners) [2022]
 Articles
 * https://codeburst.io/js-essentials-the-javascript-engine-302ff38e8465
 
+
+### Resources ~ "Coding Playgrounds" ~ Live Code Editors
+
+Coding Playgrounds are a wonderful and perhaps the most prolific source of plain JavaScript programs
+
+About
+
+* https://www.sitepoint.com/code-playgrounds/
+
+Examples
+
+* https://codepen.io/ ~ Demo it or it didn't happen
+* https://jsfiddle.net/ ~ Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
+* https://jsbin.com/
+* https://glitch.com/
+
+
+To Do
+
+* Identify and list prolific coding playground plan JavaScript authors
+
+
 ### Resources ~ Tools for Writing JavaScript
 
 * https://code.visualstudio.com/docs/languages/javascript
@@ -356,6 +402,7 @@ Articles
 
 >Favorite JavaScript utilities in single line of code! No more!
 
+
 ### https://vanillalist.top/ ~ Handpicked Vanilla JavaScript Plugins Repository
 
 * https://github.com/GuerrillaStudio/vanillalist
@@ -366,6 +413,7 @@ Every plugin includes a demo. link to sources on GitHub and NPM
 ### https://github.com/frameworkless-movement/awesome-frameworkless
 
 * Links to articles
+
 
 ### https://youmightnotneedjquery.com/
 
@@ -388,6 +436,15 @@ Every plugin includes a demo. link to sources on GitHub and NPM
 
 At last, we come to the crux of the matter: source code! The best way to learn plain JavaScript is to to look at, play with and modify JavaScript source code. The following sections are a treasure trove of good, bad and indifferent examples for you to examine.
 
+What is a source?
+
+* A user or an organization with one or more repos that contain a number of plain JavaScript projects with demos
+* Examples that use a small number of libraries are acceptable
+* Repos where the examples have a common theme or show off a particular library are considered very cool
+* The more examples the better - at least a dozen or more is nice
+* Of course, having lots of stars, a great read me, informative tags really help.
+
+
 
 ### Sources ~ Repos
 
@@ -403,10 +460,11 @@ WebGPU
 
 More
 
-* https://github.com/sajeebmahamed/Vanilla-JavaScript-Projects ~ his projects
+* https://github.com/sajeebmahamed/Vanilla-JavaScript-Projects ~ his projects >> 
 * https://github.com/gulraiznoorbari/Awesome-Vanilla-JavaScript-Projects ~ personal efforts - not list of links
 
 ***
+
 
 ### Sources ~ Organizations
 
@@ -449,6 +507,7 @@ Mountain View, California
 addyosmani@gmail.com
 https://www.addyosmani.com
 @addyosmani
+
 
 ### Brad Woods
 
@@ -497,7 +556,6 @@ American computer programmer and technology executive. He created the JavaScript
 Full stack web developer and online instructor, specializiing in mostly JS, but also write Python, PHP and some other stuff.
 
 GH: 60.6k followers · 6 following ~ @bradtraversy
-
 
 * https://github.com/bradtraversy
 * https://traversymedia.com/

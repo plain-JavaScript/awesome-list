@@ -1,7 +1,13 @@
 # Journal ~ Kitchen Sink
 
 
-## 2023-01-05  ~ @theo-armour
+## 2023-01-15 ~ @theo-armour
+
+* Added Preface ~ 2023-01-15
+* Added sources: coding playground
+
+
+## 2023-01-05 ~ @theo-armour
 
 * Added to and edited "Sources ~ People"
 
