@@ -1,5 +1,9 @@
 # Journal ~ Kitchen Sink
 
+## 2023-01-16 ~ @theo-armour
+
+* Created own page for:  [Resources ~ "Coding Playgrounds"]( #resources-coding-playgrounds.md )
+
 
 ## 2023-01-15 ~ @theo-armour
 

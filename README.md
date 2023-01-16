@@ -4,7 +4,7 @@ _A repository of JavaScript resources with more than enough links maintained by 
 
 ## Links: https://plain-JavaScript.github.io/kitchen-sink ~ [![]( https://plain-JavaScript.github.io/assets/octicon.svg)]( https://github.com/plain-JavaScript/kitchen-sink )
 
-## Table of Contents
+## Table of Contents for this Read Me
 
 * [Introduction]( #introduction )
 * [Target Audience]( #target-audience ) ~ Are you a person who will find this effort useful
@@ -18,6 +18,8 @@ _A repository of JavaScript resources with more than enough links maintained by 
 ## Preface ~ 2023-01-15
 
 See first standalone page: [Resources ~ "Coding Playgrounds"]( #resources-coding-playgrounds.md)
+
+Slowly but surely, the different sections will ber separated into standalone pages
 
 
 ## Preface ~ 2023-01-15
