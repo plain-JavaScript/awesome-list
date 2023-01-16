@@ -17,6 +17,11 @@ _A repository of JavaScript resources with more than enough links maintained by 
 
 ## Preface ~ 2023-01-15
 
+See first standalone page: [Resources ~ "Coding Playgrounds"]( #resources-coding-playgrounds.md)
+
+
+## Preface ~ 2023-01-15
+
 ### To Do
 
 * Break this file up into separate Markdown files
@@ -353,23 +358,7 @@ Articles
 
 ### Resources ~ "Coding Playgrounds" ~ Live Code Editors
 
-Coding Playgrounds are a wonderful and perhaps the most prolific source of plain JavaScript programs
-
-About
-
-* https://www.sitepoint.com/code-playgrounds/
-
-Examples
-
-* https://codepen.io/ ~ Demo it or it didn't happen
-* https://jsfiddle.net/ ~ Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
-* https://jsbin.com/
-* https://glitch.com/
-
-
-To Do
-
-* Identify and list prolific coding playground plan JavaScript authors
+See [Resources ~ "Coding Playgrounds"]( #resources-coding-playgrounds.md)
 
 
 ### Resources ~ Tools for Writing JavaScript
@@ -458,10 +447,6 @@ WebGPU
 
 * https://github.com/mikbry/awesome-webgpu
 
-More
-
-* https://github.com/sajeebmahamed/Vanilla-JavaScript-Projects ~ his projects >> 
-* https://github.com/gulraiznoorbari/Awesome-Vanilla-JavaScript-Projects ~ personal efforts - not list of links
 
 ***
 
@@ -959,6 +944,12 @@ Links to a number of useful articles
 >Developers often reach for UI frameworks like Bootstrap or Material UI, hoping that they’ll save a bunch of time and quickly build a professional-looking app. Unfortunately, things rarely work out this way. Let’s talk about it.
 
 Don't be fooled by the headline. Author says you may not need a UI Framework, but he still expects you to use React.
+
+### Miscellany ~ More??
+
+* https://github.com/sajeebmahamed/Vanilla-JavaScript-Projects ~ his projects >>
+* https://github.com/gulraiznoorbari/Awesome-Vanilla-JavaScript-Projects ~ personal efforts - not list of links
+
 
 ***
 
