@@ -33,6 +33,7 @@ Coding Playgrounds are a wonderful and perhaps the most prolific source of plain
 * https://jsbin.com/ ~ "A live pastebin for HTML, CSS & JavaScript and a range of processors, including SCSS, CoffeeScript, Jade and more..."
   * Founded by [Remy Sharp]( https://remysharp.com/ )
 
+
 ## Kind of full interactive development environments (IDEs)
 
 * https://glitch.com/ ~ "Glitch is the friendly place where everyone builds the web. Start a new blog, play with React, or build new worlds with WebXR"
@@ -40,7 +41,13 @@ Coding Playgrounds are a wonderful and perhaps the most prolific source of plain
 
 ## To Do
 
+* Talk more about glitch and replit
 * Identify and list prolific coding playground plan JavaScript authors
+* Add links to i\working fiddles and pens for our readers to play with
+* Add maxime's IDE
+* Add mrdoob's IDE
+* Others??
+
 
 ***
 
