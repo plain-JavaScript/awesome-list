@@ -11,6 +11,7 @@ It is worth noting that only a few computer languages are maintained as technica
 
 * 2023-01-19 ~ Demonstrate that software is not magic. Software such as JavaScript is the work effort, collaboration and consensus of thousands of people over the decades that create the standards listed here and elsewhere.
 * 2023-01-19 ~ Overview of the complexity. Gather thoughts and links that provide an overview of the breadth and depth of the many standards involved
+* Decide the standard of standards. There are so many standards and so many players. Deciding wjat standards we should talk about here will take time and effort.
 
 
 
