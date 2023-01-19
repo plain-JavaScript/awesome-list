@@ -92,35 +92,14 @@ A reference is a link to a source of information. The links herein can help you 
 
 See [Reference ~ Wikipedia & Wikimedia Foundation]( #reference-wikipedia-wikimedia.md )
 
+Learn the vocabulary, history and backstory og JavaScript
 
 ### Reference ~ Technical Standards and Specifications
 
-JavaScript is a language with a free and open source specification. The specification of JavaScript is an [International Standard]( https://en.wikipedia.org/wiki/International_standard ) and is maintained by ecma-international.org. It is ISO/IEC 16262.
-
-It is worth noting that only a few computer languages are maintained as technical standards. These include C, C++, COBOL, Fortran and Ruby. Note that PHP, Python, Perl, Swift and Rust are privately maintained.
+[Reference ~ Technical Standards and Specifications]( #reference-technical-standards)
 
 
-### ECMA ~ https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
-
-* https://www.ecma-international.org/technical-committees/tc39/
-
-
-### W3 ~  https://www.w3.org/standards/webdesign/script
-
->While the most common scripting language ECMAscript (more widely known as JavaScript) is developed by Ecma, a great many of the APIs made available in browsers have been defined at W3C.
-
-Standards maintained by W3 include: Audio, Canvas, CORS, DOM, DOM events, EME File, Geolocation, IndexedDB, MSE, SSE, SVG, Video, WebAssembly, WebAuthn, WebGPU, WebRTC, WebSocket, WebXR, Web messaging, Web storage, Web worker, and XMLHttpRequest
-
-
-### Khronos ~ https://www.khronos.org/
-
->Khronos royalty-free open standards for 3D graphics, Virtual and Augmented Reality, Parallel Computing, Machine Learning, and Vision Processing. Khronos develops and maintains WebGL ~ https://en.wikipedia.org/wiki/WebGL and WebCL.
-
-W3 and Khronos are two organizations developing and maintaining standards use to generate libraries of software that are embedded in browsers and readily available to you as a JavaScript programmer.
-
-Future editions may list more standards bodies that help regulate JavaScript features.
-
-***
+Software is not magic. Software is the consensus and collaboration of many in order to create the rules that anable a computer to operate.
 
 
 ## Background

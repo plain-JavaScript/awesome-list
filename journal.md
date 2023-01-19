@@ -1,5 +1,11 @@
 # Journal ~ Kitchen Sink
 
+
+## 2023-01-19 ~ @theo-armour
+
+* Created own page for: [Reference ~ Technical Standards and Specifications]( #reference-technical-standards)
+
+
 ## 2023-01-17 ~ @theo-armour
 
 * Created own page for: [Reference ~ Wikipedia & Wikimedia Foundation]( #reference-wikipedia-wikimedia.md )
