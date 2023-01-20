@@ -7,6 +7,18 @@ JavaScript is a language with a free and open source specification. The specific
 
 It is worth noting that only a few computer languages are maintained as technical standards. These include C, C++, COBOL, Fortran and Ruby. Note that PHP, Python, Perl, Swift and Rust are privately maintained.
 
+## What are the technical standards important?
+
+The technical standards for JavaScript are important because they specify how the language is meant to work. There a continuous effort to add new capabilities and to help prevent bad things from happening. In recent years the upgrades have been quite significant and beneficial. Therefore it is worth your time to stay up to date with the features and upcoming releases.
+
+## How to stay up to date?
+
+A number of online authors specialize in communications on JavaScript standard. One of the first that comes to mind:
+
+[Dr. Axel Rauschmayer]( https://2ality.com/ )
+
+
+
 ## To Do
 
 * 2023-01-19 ~ Demonstrate that software is not magic. Software such as JavaScript is the work effort, collaboration and consensus of thousands of people over the decades that create the standards listed here and elsewhere.
@@ -48,7 +60,7 @@ See also:
 W3 and Khronos are two organizations developing and maintaining standards use to generate libraries of software that are embedded in browsers and readily available to you as a JavaScript programmer.
 
 * https://en.wikipedia.org/wiki/Khronos_Group
-*
+
 
 
 ## Mozilla ~ https://www.mozilla.org/
@@ -56,6 +68,21 @@ W3 and Khronos are two organizations developing and maintaining standards use to
 * https://en.wikipedia.org/wiki/Mozilla
 > Mozilla (stylized as moz://a) is a free software community founded in 1998 by members of Netscape. The Mozilla community uses, develops, spreads and supports Mozilla products, thereby promoting exclusively free software and open standards, with only minor exceptions. The community is supported institutionally by the non-profit Mozilla Foundation and its tax-paying subsidiary, the Mozilla Corporation.
 
+### https://developer.mozilla.org/en-US/docs/Web/Demos
+
+
+
+### WEB API ~ https://developer.chrome.com/docs/apps/api_other/
+
+* https://developer.mozilla.org/en-US/docs/Web/API
+
+>When writing code for the Web, there are a large number of Web APIs available. Below is a list of all the APIs and interfaces (object types) that you may be able to use while developing your Web app or site.
+
+* https://developer.chrome.com/docs/apps/api_other/
+* https://en.wikipedia.org/wiki/Category:Application_programming_interfaces
+* https://www.w3.org/standards/webdesign/script
+
+_Is there a better - more authoritative - listing of web APIs somewhere?_
 
 Future editions may list more standards bodies that help regulate JavaScript features.
 
