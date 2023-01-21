@@ -2,7 +2,7 @@
 
 _A repository of JavaScript resources with more than enough links maintained by @theo-armour_
 
-## Links: https://plain-JavaScript.github.io/awesome-lost ~ [![]( https://plain-JavaScript.github.io/assets/octicon.svg)]( https://github.com/plain-JavaScript/awesome-lost )
+## Links: https://plain-JavaScript.github.io/awesome-list ~ [![]( https://plain-JavaScript.github.io/assets/octicon.svg)]( https://github.com/plain-JavaScript/awesome-list )
 
 ## Table of Contents for this Read Me
 
