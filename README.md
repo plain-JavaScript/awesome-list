@@ -443,18 +443,7 @@ One of the earliest and most capable [Three.js]( https://threejs.ork) developers
 
 ### Brendan Eich
 
-tags ??
-
-Founder & CEO, Brave Software. Created JavaScript. Co-founded Mozilla and Firefox.
-GH: 5.3k followers · 5 following ~ @brave
-
-American computer programmer and technology executive. He created the JavaScript programming language and co-founded the Mozilla project, the Mozilla Foundation, and the Mozilla Corporation.
-
-* https://brendaneich.com/
-* https://brave.com/
-* https://github.com/BrendanEich
-* https://en.wikipedia.org/wiki/Brendan_Eich
-* https://twitter.com/BrendanEich
+See [Sources ~ Famous People]( #sources-famous people.md )
 
 
 ### Brad Traversy
@@ -560,18 +549,7 @@ http://dmitry.baranovskiy.com/
 
 ### Douglas Crockford
 
-Wikipedia
-
->Douglas Crockford is an American computer programmer who is involved in the development of the JavaScript language. He specified the data format JSON (JavaScript Object Notation), and has developed various JavaScript related tools such as the static code analyzer JSLint and minifier JSMin.[1] Of his books, "JavaScript: The Good Parts" was published in 2008, followed by "How JavaScript Works" in 2018. He was a senior JavaScript architect at PayPal until 2019, and is also a writer and speaker on JavaScript, JSON, and related web technologies.
-
-GitHub:
->I was born in Frostbite Falls, Minnesota. I left when I was 6 months old because it was too damn cold. My latest book is _A Million And One Random Digits_.
-
-GH: 20.9k followers · 2 following ~ @douglascrockford
-
-* https://github.com/douglascrockford
-* http://crockford.com/javascript/
-* https://en.wikipedia.org/wiki/Douglas_Crockford
+See [Sources ~ Famous People]( #sources-famous people.md )
 
 
 ### Eric Wastl
@@ -733,15 +711,12 @@ Repos
 
 ### Paul Irish
 
-Paul Irish
-paulirish
- 30.7k followers · 279 following
-Google Chrome, ♥z
-https://paul.irish/
-@paul_irish
+See [Sources ~ Famous People]( #sources-famous people.md )
 
 
 ### Remy Sharp
+
+See [Sources ~ Famous People]( #sources-famous people.md )
 
 tags #famous
 

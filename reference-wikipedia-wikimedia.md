@@ -65,3 +65,8 @@ The material in the Wikiversity JavaScript course appear to be a great resource 
 
 
 See also a variety of other JavaScript references in https://en.wikipedia.org/wiki/Wikipedia:Wikimedia_sister_projects
+
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
