@@ -1,4 +1,4 @@
-# [![](https://plain-javascript.github.io/assets/svg/octicon.svg )](https://github.com/plain-javascript/ "Source code on GitHub" ) [Plain JavaScript]( https://plain-javascript.github.io/ "Home page" ) / [Templates Read Me]( https://github.com/plain-javascript/assets/tree/main/templates/ "2023-01-23" )
+# [![](https://plain-javascript.github.io/assets/svg/octicon.svg )](https://github.com/plain-javascript/ "Source code on GitHub" ) [Plain JavaScript]( https://plain-javascript.github.io/ "Home page" ) / [Reference Read Me]( https://plain-javascript.github.io/avesome-list/#reference/README.md "2023-01-23" )
 
 <!--@@@
 <div class=iframe-resize ><iframe src=https://plain-javascript.github.io/ height=100% width=100% ></iframe></div>
