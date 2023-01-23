@@ -1,29 +1,31 @@
-# [![](https://plain-javascript.github.io/assets/svg/octicon.svg )](https://github.com/plain-javascript/ "Source code on GitHub" ) [Plain JavaScript]( https://plain-javascript.github.io/ "Home page" ) / [Reference Read Me]( https://plain-javascript.github.io/avesome-list/#reference/README.md "2023-01-23" )
+# [![](https://plain-javascript.github.io/assets/svg/octicon.svg )](https://github.com/plain-javascript/ "Source code on GitHub" ) [Plain JavaScript]( https://plain-javascript.github.io/ "Home page" ) / [Reference Read Me]( https://plain-javascript.github.io/awesome-list/#reference/README.md "2023-01-23" )
 
-<!--@@@
+<!--
 <div class=iframe-resize ><iframe src=https://plain-javascript.github.io/ height=100% width=100% ></iframe></div>
 _"Home Read Me" in a resizable window_
-@@@-->
 
 ## Full Screen: [Home]( https://plain-javascript.github.io/assets/ )
 
+-->
 
-## Concept
+## Reference
+
+A reference is a link to a source of information. The links herein can help you understand the "who, what, when, where and why of JavaScript".
+
+### Reference ~ Wikipedia & Wikimedia Foundation ~ projects relating to JavaScript
+
+See [Reference ~ Wikipedia & Wikimedia Foundation]( #reference/reference-wikipedia-wikimedia.md )
+
+Learn the vocabulary, history and backstory of JavaScript
+
+### Reference ~ Technical Standards and Specifications
+
+[Reference ~ Technical Standards and Specifications]( #reference/reference-technical-standards)
 
 
-## Text you can include in read me files
+Software is not magic. Software is the consensus and collaboration of many in order to create the rules that anable a computer to operate.
 
-<details open >
 
-<summary> Things you can do using this script</summary>
-
-* Click the three bars( 'hamburger menu icon' ) to slide the menu in and out
-* Click the GitHub Octocat icon to view or edit the source code on GitHub
-* Click on title to reload te page
-* Press Control-U/Command-Option-U to view the source code
-* Press Control-Shift-J/Command-Option-J to see if the JavaScript console reports any errors
-
-</details>
 
 ## To Do / Wish List
 
@@ -37,7 +39,7 @@ _"Home Read Me" in a resizable window_
 ## Change Log
 
 
-### XXXXX
+### 2023-01-23
 
 * First commit
 

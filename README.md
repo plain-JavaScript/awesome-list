@@ -90,13 +90,13 @@ A reference is a link to a source of information. The links herein can help you 
 
 ### Reference ~ Wikipedia & Wikimedia Foundation ~ projects relating to JavaScript
 
-See [Reference ~ Wikipedia & Wikimedia Foundation]( #reference-wikipedia-wikimedia.md )
+See [Reference ~ Wikipedia & Wikimedia Foundation]( #reference/reference-wikipedia-wikimedia.md )
 
-Learn the vocabulary, history and backstory og JavaScript
+Learn the vocabulary, history and backstory of JavaScript
 
 ### Reference ~ Technical Standards and Specifications
 
-[Reference ~ Technical Standards and Specifications]( #reference-technical-standards)
+[Reference ~ Technical Standards and Specifications]( #reference/reference-technical-standards)
 
 
 Software is not magic. Software is the consensus and collaboration of many in order to create the rules that anable a computer to operate.
