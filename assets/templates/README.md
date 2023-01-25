@@ -1,11 +1,11 @@
-# [![](https://plain-javascript.github.io/assets/svg/octicon.svg )](https://github.com/plain-javascript/ "Source code on GitHub" ) [Plain JavaScript]( https://plain-javascript.github.io/ "Home page" ) / [Templates Read Me]( https://github.com/plain-javascript/assets/tree/main/templates/ "2023-01-23" )
+# [![](https://plain-javascript.github.io/assets/svg/octicon.svg )]( https://github.com/plain-javascript/awesome-list "Source code on GitHub" ) [Plain JavaScript: Awesome List ]( https://plain-javascript.github.io/awesome-list/ "Home page" ) / [Templates Read Me]( https://github.com/plain-javascript/assets/tree/main/templates/ "2023-01-23" )
 
 <!--@@@
 <div class=iframe-resize ><iframe src=https://plain-javascript.github.io/ height=100% width=100% ></iframe></div>
 _"Home Read Me" in a resizable window_
 @@@-->
 
-## Full Screen: [Home]( https://plain-javascript.github.io/assets/ )
+## Full Screen: [Home]( https://plain-javascript.github.io/ )
 
 
 ## Concept
