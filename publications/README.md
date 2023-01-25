@@ -7,7 +7,11 @@ There is a topic and then there is talk about a topic. For example, every Wikipe
 
 This section contains links to a variety of published material that defines guidelines, discusses the current state, provides warning and worries and the like - all about JavaScript
 
+[Publications ~ Articles]( https://plain-JavaScript.github.io/awesome-list/#publications-articles.md )
 
+[Publications ~ Books]( https://plain-JavaScript.github.io/awesome-list/#publications-books.md )
+
+[Publications ~ Videos ~ Websites]( https://plain-JavaScript.github.io/awesome-list/#publications-videos-websites.md )
 ## To Do / Wish List
 
 

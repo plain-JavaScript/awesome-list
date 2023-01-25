@@ -4,7 +4,6 @@
 
 ## Concept
 
-
 Odd and ends that don't yet seem to belong to a specific category - yet.
 
 
