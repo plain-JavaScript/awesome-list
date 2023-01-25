@@ -5,6 +5,9 @@
 
 Assets that can be drawn on in order to help JavaScript function effectively.
 
+[Resources]( https://plain-javascript.github.io/awesome-list/#resouces/resources.md)
+
+[Resources ~ Coding Playgrounds]( https://plain-javascript.github.io/awesome-list/#resouces/resources-coding-playgrounds.md )
 
 ***
 
