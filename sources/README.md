@@ -13,7 +13,10 @@ What is a source?
 * The more examples the better - at least a dozen or more is nice
 * Of course, having lots of stars, a great read me, informative tags really help.
 
-[Sources]( ..)
+[Sources]( https://plain-javascript.github.io/awesome-list/#sources/README.md )
+
+[Sources ~ Famous People]( https://plain-javascript.github.io/awesome-list/#sources/famous-people.md )
+
 ## To Do / Wish List
 
 
