@@ -5,13 +5,15 @@
 
 There is a topic and then there is talk about a topic. For example, every Wikipedia article links to a "talk" page with discussion about the article.
 
-This section contains links to a variety of published material that defines guidelines, discusses the current state, provides warning and worries and the like - all about JavaScript
+This section contains links to a variety of published material that defines guidelines, discusses the current state, provides warning and worries and the like - all about JavaScript.
 
-[Publications ~ Articles]( https://plain-JavaScript.github.io/awesome-list/#publications-articles.md )
+[Publications ~ Articles]( https://plain-JavaScript.github.io/awesome-list/#publications/publications-articles.md )
 
-[Publications ~ Books]( https://plain-JavaScript.github.io/awesome-list/#publications-books.md )
+[Publications ~ Books]( https://plain-JavaScript.github.io/awesome-list/#publications/publications-books.md )
 
-[Publications ~ Videos ~ Websites]( https://plain-JavaScript.github.io/awesome-list/#publications-videos-websites.md )
+[Publications ~ Videos ~ Websites]( https://plain-JavaScript.github.io/awesome-list/#publications/publications-videos-websites.md )
+
+
 ## To Do / Wish List
 
 
